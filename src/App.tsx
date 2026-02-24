@@ -108,10 +108,7 @@ const Hero = () => (
             MulaStar – <span className="text-primary">Make Money Online</span>
           </h1>
           <p className="mt-6 text-lg text-slate-600 dark:text-slate-400 leading-relaxed">
-            MulaStar is an online earning platform designed to help you make money through simple digital activities. 
-            From watching short videos and clicking ads to blogging, playing games, and learning Forex, 
-            MulaStar combines entertainment, education, and income opportunities in one powerful dashboard. 
-            Whether you're a beginner or an experienced online earner, MulaStar gives you multiple ways to grow your income — anytime, anywhere.
+            MulaStar offers TikTok & YouTube videos, ad clicks, blogging, trivia, Forex tutorials, e‑books, chess & draughts to boost your earnings. Create MulaStar Account
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <a 
