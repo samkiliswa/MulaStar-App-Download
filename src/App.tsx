@@ -329,7 +329,7 @@ const FAQ = () => (
         />
         <FAQItem 
           question="8. MULASTAR AGENCIES ACTIVATION FEES" 
-          answer="Kenya🇰🇪 - KSH 500, Tanzania🇹🇿 - TZS 11,000, Uganda🇺🇬 - UGX 19,000, Rwanda🇷🇼 - RWF 6,500, Nigeria🇳🇬 - NGN 8,000, Burundi🇧🇮 - BIF 26000, Zambia🇿🇲 - ZK 130, Malawi 🇲🇼 - MK 26,000, Ivory Coast 🇮🇪 - XOF 4100, Senegal 🇸🇳 - XOF 4100, Botswana 🇧🇼 - BWP 100, South Africa 🇿🇦 - ZAR 70, Ghana 🇬🇭 - GHC 90, Cameroon 🇨🇲 - XAF 4100, West Africa - XOF 4100, South Sudan🇸🇸 - SSP 20000, Others🎌 - USD 8."
+          answer="Kenya - KSH 500, Tanzania - TZS 11,000, Uganda - UGX 19,000, Rwanda - RWF 6,500, Nigeria - NGN 8,000, Burundi - BIF 26000, Zambia - ZK 130, Malawi - MK 26,000, Ivory Coast - XOF 4100, Senegal - XOF 4100, Botswana - BWP 100, South Africa - ZAR 70, Ghana - GHC 90, Cameroon - XAF 4100, West Africa - XOF 4100, South Sudan - SSP 20000, Others🎌 - USD 8."
         />
       </div>
     </div>
